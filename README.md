@@ -1,4 +1,4 @@
-# Function for Vaild or In-Valid
+# EMAIL ADDRESS VALIDATOR
 
 def addressVal(address):
 
